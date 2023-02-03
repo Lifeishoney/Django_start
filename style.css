@@ -1,0 +1,23 @@
+.msg_1 {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #0d9db3;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(19, 7, 7);
+    font-size: 24px;
+}
+
+.msg_2 {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    background: #0d9db3;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(19, 7, 7);
+    font-size: 24px;
+}
+
+
